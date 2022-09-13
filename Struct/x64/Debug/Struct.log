@@ -1,0 +1,4 @@
+﻿  MergeSort.cpp
+C:\Users\Andrey\source\repos\Struct\Struct\MergeSort.cpp(25,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Andrey\source\repos\Struct\Struct\MergeSort.cpp(27,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Struct.vcxproj -> C:\Users\Andrey\source\repos\Struct\x64\Debug\Struct.exe
